@@ -3,6 +3,8 @@
 ## Simple Interest Calculator
 
 This is a test update from bug-fix-typo branch.
+This is a sample update for the bug-fix-typo branch.
+
 
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
